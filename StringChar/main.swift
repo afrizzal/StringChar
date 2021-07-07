@@ -11,8 +11,8 @@ print("Let's try!")
 print("----------------------------------")
 
 // Digunakan untuk mengambil data inputan.
-print("Masukkanlah nama depan Anda:"); let firstName = String(readLine() ?? "")
-print("Masukkanlah nama belakang Anda:"); let lastName = String(readLine() ?? "")
+print("Fisrt name:"); let firstName = String(readLine() ?? "")
+print("Last name:"); let lastName = String(readLine() ?? "")
 print("----------------------------------")
 print("Berikut ini adalah operator-operator yang digunakan:")
 
